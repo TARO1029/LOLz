@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"user","event-type":"6","actions":[{"channel":"4","varName":"","message":"**Witaj** ${tempVars(\"user\")} **na serwerze ForestRP. Przestrzegaj regulaminu i baw się dobrze**","storage":"0","varName2":"","name":"Send Message"},{"member":"2","varName2":"join","role":"2","varName":"imigrant","name":"Add Member Role"}]}]
